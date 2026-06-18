@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Hafsa Naz
+#  Hello, I'm Hafsa Naz
 
 ### 🎓 Artificial Intelligence Student | 💻 Python Developer | 🤖 AI & Data Science Enthusiast
 
@@ -6,15 +6,15 @@ Welcome to my GitHub profile!
 
 I am an Artificial Intelligence undergraduate passionate about building intelligent systems that solve real-world problems. My interests include Machine Learning, Deep Learning, Computer Vision, and Data Analytics. I enjoy transforming data into meaningful insights and developing AI-powered solutions through continuous learning and hands-on projects.
 
-## 🚀 What I'm Working On
+##  What I'm Working On
 
-* 🤖 Machine Learning & Deep Learning Projects
-* 👁️ Computer Vision Applications
-* 📊 Data Analysis and Visualization
-* 🐍 Python Development
-* 📚 Expanding my knowledge of AI technologies
+*  Machine Learning & Deep Learning Projects
+*  Computer Vision Applications
+*  Data Analysis and Visualization
+*  Python Development
+*  Expanding my knowledge of AI technologies
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -46,7 +46,7 @@ I am an Artificial Intelligence undergraduate passionate about building intellig
 * Google Colab
 * VS Code
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 ### 🌿 Plant Disease Classification
 
@@ -61,15 +61,15 @@ Collaborative filtering recommendation engine using user ratings and cosine simi
 Image clustering project using CNN feature extraction, PCA, and K-Means clustering for intelligent waste categorization.
 
 
-## 📫 Let's Connect
+##  Let's Connect
 
-📧 Email: [nazhafsa261@gmail.com](mailto:nazhafsa261@gmail.com)
+ Email: [nazhafsa261@gmail.com](mailto:nazhafsa261@gmail.com)
 
-💼 LinkedIn: [www.linkedin.com/in/hafsa-naz](http://www.linkedin.com/in/hafsa-naz)
+ LinkedIn: [www.linkedin.com/in/hafsa-naz](http://www.linkedin.com/in/hafsa-naz-)
 
 ---
 
-### 💡 Favorite Quote
+###  Favorite Quote
 
 *"The best way to predict the future is to create it."*
 
