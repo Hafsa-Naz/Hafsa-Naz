@@ -65,7 +65,7 @@ Image clustering project using CNN feature extraction, PCA, and K-Means clusteri
 
  Email: [nazhafsa261@gmail.com](mailto:nazhafsa261@gmail.com)
 
- LinkedIn: [www.linkedin.com/in/hafsa-naz](http://www.linkedin.com/in/hafsa-naz-)
+ LinkedIn: [www.linkedin.com/in/hafsa-naz-](http://www.linkedin.com/in/hafsa-naz-)
 
 ---
 
